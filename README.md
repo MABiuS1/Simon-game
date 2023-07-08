@@ -1,2 +1,2 @@
 # Simon-game
-I can try create game to lesson
+I try create game to lesson
