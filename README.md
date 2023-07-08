@@ -1,2 +1,2 @@
 # Simon-game
-I try create game to lesson
+I'm trying to make a game for tutorials.
